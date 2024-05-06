@@ -1,0 +1,16 @@
+/*
+MIT License
+*/
+
+/* Decent web fonts. I cannot stress the decent-ness enough. */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Simple text box. */
+div.textBox {
+    border: 5px solid black;
+    border-radius: 25px;
+    width: 25%; /* This can be whatever. */
+    text-align: center;
+}
